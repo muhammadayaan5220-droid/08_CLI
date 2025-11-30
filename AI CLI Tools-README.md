@@ -23,7 +23,16 @@ Modern developers use AI through the terminal for:
 - Automation  
 - Shell scripts  
 - Testing models  
-- Quick content generation  
+- Quick content generation
+- ---
+
+# 📌 Go to Each Folder for Full Documentation
+- [`gemini-cli`](./gemini-cli/README.md)  
+- [`grok-cli`](./grok-cli/README.md)  
+- [`openai-cli`](./openai-cli/README.md)  
+- [`anthropic-cli`](./anthropic-cli/README.md)  
+
+---
 
 This repo makes it easy to compare & understand all major AI CLIs.
 
