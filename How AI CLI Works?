@@ -1,0 +1,5 @@
+###How an AI CLI Works?
+
+# 📊 Flowchart – “How an AI CLI Works”
+
+User Input → CLI Parser → API Request Builder → AI Model → Response Formatter → Terminal Output
